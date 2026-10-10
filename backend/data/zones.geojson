@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "id": "central-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[77.15,28.58],[77.25,28.58],[77.25,28.70],[77.15,28.70],[77.15,28.58]]] } },
+    { "type": "Feature", "properties": { "id": "north-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[77.00,28.70],[77.15,28.70],[77.15,28.80],[77.00,28.80],[77.00,28.70]]] } },
+    { "type": "Feature", "properties": { "id": "north-east-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[77.25,28.65],[77.40,28.65],[77.40,28.80],[77.25,28.80],[77.25,28.65]]] } },
+    { "type": "Feature", "properties": { "id": "east-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[77.25,28.50],[77.30,28.50],[77.30,28.65],[77.25,28.65],[77.25,28.50]]] } },
+    { "type": "Feature", "properties": { "id": "south-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[77.12,28.43],[77.25,28.43],[77.25,28.58],[77.12,28.58],[77.12,28.43]]] } },
+    { "type": "Feature", "properties": { "id": "south-west-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[76.95,28.52],[77.12,28.52],[77.12,28.65],[76.95,28.65],[76.95,28.52]]] } },
+    { "type": "Feature", "properties": { "id": "west-delhi" }, "geometry": { "type": "Polygon", "coordinates": [[[76.95,28.65],[77.15,28.65],[77.15,28.70],[76.95,28.70],[76.95,28.65]]] } },
+    { "type": "Feature", "properties": { "id": "gurugram" }, "geometry": { "type": "Polygon", "coordinates": [[[76.85,28.40],[77.12,28.40],[77.12,28.52],[76.85,28.52],[76.85,28.40]]] } },
+    { "type": "Feature", "properties": { "id": "noida" }, "geometry": { "type": "Polygon", "coordinates": [[[77.30,28.45],[77.50,28.45],[77.50,28.62],[77.30,28.62],[77.30,28.45]]] } }
+  ]
+}

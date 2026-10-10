@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+@tailwind base; @tailwind components; @tailwind utilities;
+body { margin: 0; background: #f5f8f6; color: #13232f; font-family: 'DM Sans', sans-serif; }
+h1,h2,h3 { font-family: 'Space Grotesk', sans-serif; }
+.leaflet-container { height: 100%; min-height: 440px; border-radius: 18px; }
